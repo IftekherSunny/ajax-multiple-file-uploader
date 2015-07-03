@@ -5,10 +5,14 @@ Default maximum upload size is 2mb. If you want to customize it. Just, pick a va
 ## Examples
 
 Max upload size = 2mb 
+```
 <input type="file"  name="files[]" multiple="multiple" data-max-upload-size="2">
+```
 
 Max upload size = 8mb 
+```
 <input type="file"  name="files[]" multiple="multiple" data-max-upload-size="8">
+```
 
 ## Screenshot
 
