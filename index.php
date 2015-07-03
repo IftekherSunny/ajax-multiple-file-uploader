@@ -34,7 +34,7 @@
 			<form method="post" enctype="multipart/form-data" v-on="submit: upload">
 				<div class="form-group">
 					<label>Upload: </label>
-					<input type="file"  name="files[]" multiple="multiple" data-max-upload-size="4">
+					<input type="file"  name="files[]" multiple="multiple" data-max-upload-size="2">
 				</div>
 				<div class="form-group">
 					<input type="submit" value="Upload" name="submit" class="btn btn-primary">
