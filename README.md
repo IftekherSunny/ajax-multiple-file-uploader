@@ -12,7 +12,13 @@ Max upload size = 8mb
 
 ## Screenshot
 
+Error:
 ![Error1](https://github.com/IftekherSunny/ajax-multiple-file-uploader/blob/master/screenshot/error1.jpg)
 ![Error2](https://github.com/IftekherSunny/ajax-multiple-file-uploader/blob/master/screenshot/error2.jpg)
-![Success](https://github.com/IftekherSunny/multiple-file-uploader/blob/master/screenshot/success.jpg)
-![Progressbar](https://github.com/IftekherSunny/multiple-file-uploader/blob/master/screenshot/progressbar.jpg)
+
+Progressbar:
+![Progressbar](https://github.com/IftekherSunny/ajax-multiple-file-uploader/blob/master/screenshot/progressbar.jpg)
+
+Success:
+![Success](https://github.com/IftekherSunny/ajax-multiple-file-uploader/blob/master/screenshot/success.jpg)
+
