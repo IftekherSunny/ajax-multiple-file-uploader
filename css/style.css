@@ -1,0 +1,19 @@
+body {
+	background-color: #333;
+	font-size: 14px;
+	color: #333;
+}
+.well {
+	margin: 30px auto;
+}
+h2 {
+	color: #a3a3a3;
+}
+
+.alert ul {
+	margin-top: 20px;
+}
+
+.progress {
+	background-color: #d9534f;
+}
