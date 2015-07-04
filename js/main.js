@@ -11,7 +11,6 @@ new Vue({
 	methods: {
 		validation: function (e) {
 			var files = e.target[0].files;
-			console.log(e.target[0].files);
 			var hasError = false;
 			var errors = [];
 
